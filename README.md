@@ -2,6 +2,10 @@
 
 NanoGallery is 3D computer game, which teaches about nanoparticles and their purpose. This game has been awarded and exhibited on Collegium Maius at the Jagiellonian University.
 
+### Screenshots:
+![Screenshot_1](Readme_Images/ss1.png)
+![Screenshot_2](Readme_Images/ss2.png)
+
 ### Estimated system requirements
 #### Minimal:
 * `OS:` Windows 7 64bit or Windows 10 64bit
